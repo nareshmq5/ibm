@@ -1,2 +1,2 @@
 #!/bin/bash
-touch file1
+touch file1 file2
